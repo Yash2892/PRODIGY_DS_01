@@ -1,2 +1,2 @@
-# PRODIGY_DS_01
-Prodigy  Infotech  Data Science Internship Task1
+# Prodigy-Infotech-DS-Task-01
+Prodigy  Infotech  Data Science Internship Task1:
