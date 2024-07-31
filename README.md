@@ -36,5 +36,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a>[Yash Sharma ](https://www.linkedin.com/in/shantanu-pandey22/)(LinkedIn)</a>
+- <a>[Yash Sharma ](https://www.linkedin.com/in/yash-sharma-a52026242/?trk=opento_sprofile_details)(LinkedIn)</a>
 - Email: syash2892@gmail.com
